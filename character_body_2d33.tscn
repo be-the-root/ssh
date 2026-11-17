@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://gxq6dotdf38l"]
+
+[sub_resource type="MeshTexture" id="MeshTexture_4om1f"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=943825955]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1660885603]
+texture = SubResource("MeshTexture_4om1f")

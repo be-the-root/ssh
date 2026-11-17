@@ -13,7 +13,7 @@ config_version=5
 config/name="shh"
 run/main_scene="uid://cflwjvjwn2cbj"
 config/features=PackedStringArray("4.7", "GL Compatibility")
-config/icon="res://scenes/icon.svg"
+config/icon="res://assets/brackeys_platformer_assets/scenes/icon.svg"
 
 [display]
 

@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://yj5m6mposcyp"]
+
+[ext_resource type="Texture2D" uid="uid://kjex7qep7l65" path="res://PNG/Background/Execution_Grounds_2D_Platformer_Tileset_Background - Layer 00.png" id="1_ohhw7"]
+
+[node name="TextureRect" type="TextureRect" unique_id=2008386375]
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("1_ohhw7")

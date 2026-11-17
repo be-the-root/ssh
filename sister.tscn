@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://vvcj7kpyqxj"]
+
+[ext_resource type="Texture2D" uid="uid://glqa716ubtqr" path="res://assets/brackeys_platformer_assets/sprites/sister13.png" id="1_2w0em"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_wp5od"]
+radius = 6.0
+
+[node name="sister" type="CharacterBody2D" unique_id=634956760]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=931182689]
+position = Vector2(21, -7)
+shape = SubResource("CircleShape2D_wp5od")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=583365369]
+position = Vector2(22, -16)
+texture = ExtResource("1_2w0em")
