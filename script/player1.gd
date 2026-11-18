@@ -7,7 +7,7 @@ const JUMP_VELOCITY = -350.0
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 # Link to the UI Label we created
-@onready var objective_label = get_tree().current_scene.get_node("CanvasLayer/Label")
+@onready var objective_label = get_tree().root.find_child("Label", true, false)
 
 func _physics_process(delta):
 	# Add the gravity.
