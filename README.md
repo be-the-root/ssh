@@ -1,6 +1,14 @@
 # shh
 its my first game that i made in godot
 
+so i got the idea of this game from mario but its my first game so i dont know how to make those machenics or work inn that concept , but i am learning so ill make better games soon and , ill try my best
+
+## total time taken
+* 4 hours + (37 minutes art)
+
+## assets
+* some assets are made by me and others are open source online with mit licence
+
 
 ## how to play
 
